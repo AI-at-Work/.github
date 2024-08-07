@@ -48,6 +48,7 @@ graph TD
 - 🕰️ Effortless retrieval of historical chat data
 - ⚡ Real-time communication
 - 📈 Scalable microservices architecture
+- 🤖 Support for Ollama
 
 ## 🚀 Getting Started
 
