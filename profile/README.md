@@ -11,6 +11,7 @@ Streamlining AI agent development by tackling the complexities of:
 - Summary generation
 - File handling
 - Historical data retrieval
+- Agent Communication Endpoint
 
 ## 🛠️ Key Components
 
@@ -49,6 +50,7 @@ graph TD
 - ⚡ Real-time communication
 - 📈 Scalable microservices architecture
 - 🤖 Support for Ollama
+- 📁 Support for RAG with RAPTOR + ColBERT V2
 
 ## 🚀 Getting Started
 
