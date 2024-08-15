@@ -54,6 +54,8 @@ graph TD
 
 ## 🚀 Getting Started
 
+Follow our [video tutorial](https://youtu.be/cJ04JzH_HNg) for a step-by-step guide.
+
 1. Clone the repositories:
    ```bash
    git clone https://github.com/AI-at-Work/Chat-Backend.git
